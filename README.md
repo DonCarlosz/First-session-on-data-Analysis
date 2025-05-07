@@ -26,7 +26,7 @@
 - Structured data is when data is tabularized or placed in a table format.
 ### - Unstructured data:
 -They are media datas like audio files, Images, Emails and videos.
-- [Image Alt](https://github.com/DonCarlosz/First-session-on-data-Analysis/blob/main/Screenshot%202025-04-29%2002330.png?raw=true)
+- ![Image Alt](https://github.com/DonCarlosz/First-session-on-data-Analysis/blob/main/Screenshot%202025-04-29%2002330.png?raw=true)
 
 ### - Semi Structured data
 - This is when data is not placed in a tabular format, data is separated by commas etc.
